@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingdalculate",
+        "uuid": 2235772,
+        "checksum": "qttpmf"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
